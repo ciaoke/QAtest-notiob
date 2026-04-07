@@ -180,11 +180,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "be28795945a68f93",
   "lastOpenFiles": [
-    "QAtest.md"
+    "assets/QAtest/file-20260407125400630.png",
+    "QAtest.md",
+    "assets/QAtest",
+    "assets",
+    "新建 文本文档.txt"
   ]
 }
