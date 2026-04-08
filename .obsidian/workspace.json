@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "QAtest 的大纲"
             }
+          },
+          {
+            "id": "58a9852b4a693fba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
