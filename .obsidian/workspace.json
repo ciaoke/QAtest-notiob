@@ -189,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dbd4fe930f907de",
+  "active": "69dabfe0c8aa3d86",
   "lastOpenFiles": [
+    "playwright_e2e_test",
+    "新建文件夹",
     "未命名 4.base",
     "未命名 3.base",
     "未命名 5.base",
@@ -201,8 +203,6 @@
     "未命名.base",
     "QAtest.md",
     "assets/QAtest/file-20260407125400630.png",
-    "assets/QAtest",
-    "assets",
-    "新建 文本文档.txt"
+    "assets/QAtest"
   ]
 }
